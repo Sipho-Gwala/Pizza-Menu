@@ -7,7 +7,11 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
 import java.io.IOException;
-
+/*
+ * @Author Sipho Gwala (Cool-Coder)
+ * 2022-06-01
+ * @Module Comp102
+ * */
 public class PizzaPanel extends JPanel {
 
     private Image image;
