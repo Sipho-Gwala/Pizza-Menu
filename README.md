@@ -1,0 +1,1 @@
+This is a website to order pizzas. The website allow the user to choose flavours and price for the pizza of their choice.
